@@ -1,4 +1,5 @@
 # Electricity-Demand-and-Demand-Met-2020-2024
 an interactive Tableau dashboard using the latest government electricity dataset, including cleaning and structuring of 1,800+ records, to analyse nationwide electricity demand versus demand met. Designed time-series visuals, state-wise comparisons, and performance indicators to surface demand–supply gaps, seasonal patterns, and consumption trends.
 
-Click on the link check out my project (https://meemansarawat23.github.io/Electricity-Demand-and-Demand-Met-2020-2024/)
+Click on the link check out my project [(https://meemansarawat23.github.io/Electricity-Demand-and-Demand-Met-2020-2024/)
+](https://public.tableau.com/app/profile/meemansa.rawat/viz/ElectricityDemandandDemandMet2020-2024/Dashboard1)
