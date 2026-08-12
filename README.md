@@ -31,4 +31,4 @@
 [(https://meemansarawat23.github.io/Electricity-Demand-and-Demand-Met-2020-2024/)
 ](https://public.tableau.com/app/profile/meemansa.rawat/viz/ElectricityDemandandDemandMet2020-2024/Dashboard1)
 
-[Dashboard Preview](https://github.com/meemansarawat23/Electricity-Demand-and-Demand-Met-2020-2024/blob/main/Electricity%20Demand%20Dashboard.png) 
+![Dashboard Preview](https://github.com/meemansarawat23/Electricity-Demand-and-Demand-Met-2020-2024/blob/main/Electricity%20Demand%20Dashboard.png) 
